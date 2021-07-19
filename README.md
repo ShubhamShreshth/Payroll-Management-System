@@ -14,13 +14,13 @@ Features of Payroll Management System Project:
 5.Manage Over Time and Salary Rates
 
 
-FrontEnd: HTML, CSS
+FRONTEND: HTML, CSS
 
 1.HTML: HTML is used to create and save web document.
 
 2.CSS: (Cascading Style Sheets) Create attractive Layout
 
-BackEnd: PHP, MySQL, JavaScript, XAMPP
+BACKEND: PHP, MySQL, JavaScript, XAMPP
 
 1.PHP: Hypertext Preprocessor (PHP) is a technology that allows software developers to create dynamically generated web pages, in HTML, XML, or other document types, as per client request. PHP is open-source software.
 
