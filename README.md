@@ -1,5 +1,6 @@
 # Payroll-Management-System
 "Payroll Management System" is meant to supply the power to line up all the tasks of employee payment. At first, the user has got to undergo login system to urge access, then the user can add, list, update and take away the employee’s record. The record contains the employee's personal info such as name, mobile no., DOB, ID, designation and address. This system deals with the financial aspects of employee’s Salary, allowances, Net pay. The user can view the account of each and every employee’s and update their payments, and the user can also manage bonus, modify overtime and salary rate. Each and every detail about employee’s payment is displayed which includes: Name with basic salary, absence, overtime, seasonal and other bonus and net pay. This system makes easier to the user for managing payroll system as it is not time-consuming.
+
 Features of Payroll Management System Project:
 
 1.Login System
